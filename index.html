@@ -2,29 +2,137 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Farha Shafiuddin | UX + Python</title>
   <style>
+    :root {
+      --text: #1f2933;
+      --muted: #4b5563;
+      --accent: #2563eb;
+      --bg: #f9fafb;
+      --card: #ffffff;
+      --border: #e5e7eb;
+    }
+
+    * { box-sizing: border-box; }
+
     body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      line-height: 1.6;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 1.25rem 4rem;
+      line-height: 1.65;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      max-width: 650px;
+      font-size: 1.05rem;
+    }
+
+    h2 {
+      margin-top: 3rem;
+      margin-bottom: 1.5rem;
+      font-size: 1.7rem;
+    }
+
+    .project {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      padding: 1.4rem 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .tags {
+     margin-top: 0.6rem;
+     margin-bottom: 0.6rem;
+    }
+
+
+    .tag {
+     display: inline-block;
+     font-size: 0.75rem;
+     padding: 0.25rem 0.6rem;
+     border-radius: 999px;
+     background: #eef2ff;
+     color: #3730a3;
+     margin-right: 0.4rem;
+     margin-bottom: 0.4rem;
+     }
+
+    .project h3 {
+      margin-top: 0;
+      margin-bottom: 0.4rem;
+      font-size: 1.25rem;
+    }
+
+    .project p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.6rem;
+      color: var(--muted);
+    }
+
+    .project a {
+      display: inline-block;
+      margin-top: 0.4rem;
+      color: var(--accent);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .project a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: var(--muted);
     }
   </style>
 </head>
 <body>
-  <h1>Farha Shafiuddin</h1>
-  <p>Computer Science student focusing on UI/UX, Data Analysis, and Python.</p>
+  <header>
+    <h1>Farha Shafiuddin</h1>
+    <p class="subtitle">
+      Computer Science student focused on UI/UX, Python development, and data analysis.
+      Interested in building clear, ethical, and user-centered software.
+    </p>
+  </header>
 
-  <h2>Projects</h2>
-  <h3>Accessible Form Prototype</h3>
-  <p>
-    A Python-based accessible form focusing on clarity, usability, and inclusive design principle.
-  </p>
-  <p>
-    <a href="https://github.com/FarhaShafiuddin/ux-python-prototypes">
-      View Project on GitHub
-    </a>
-  </p>
+  <main>
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Accessible Form Prototype</h3>
+      <p>
+        A Python-based accessible form prototype designed around clarity,
+        usability, and inclusive design principles, with attention to user flow
+        and error prevention.
+      </p>
+      <div class="tags">
+       <span class="tag">Python</span>
+       <span class="tag">UI/UX</span>
+       <span class="tag">Accessibility</span>
+      </div>
+      <a href="https://github.com/FarhaShafiuddin/ux-python-prototypes" target="_blank">
+        View project on GitHub →
+      </a>
+    </div>
+
+  </main>
+
+  <footer>
+    © 2026 Farha Shafiuddin
+  </footer>
 </body>
 </html>
+
