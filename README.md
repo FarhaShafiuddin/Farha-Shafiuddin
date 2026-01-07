@@ -6,7 +6,9 @@ The site showcases my work in **Python development, UX/UI design, and accessible
 user-centered technology**, including case studies, prototypes, and selected projects.
 
 🌐 **Live site:**  
+
 [https://farhashafiuddin.github.io/Farha-Shafiuddin_Portfolio/](https://farhashafiuddin.github.io/Farha-Shafiuddin_Portfolio/)
+
 ---
 
 ## About the Portfolio
