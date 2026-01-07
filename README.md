@@ -1,47 +1,35 @@
-- # 👋 Hi, I'm Farha Shafiuddin
+# Farha Shafiuddin – Portfolio Website
 
-**Computer Science Student | Python Developer | Angular | UX/UI Designer 🎨**
+This repository contains the source code for my personal portfolio website.
 
-I build **Python-based tools** and **UX/UI prototypes** with a focus on **ethical, user-centered design** and accessibility. My work spans Python applications, data analysis, and interactive interfaces that are practical, inclusive, and polished.
+The site showcases my work in Python development, UX/UI design, and accessible,
+user-centered technology, including case studies, prototypes, and selected projects.
 
----
-
-## 🔗 Find Me Online
-
-- 🌐 Portfolio: [Farha Shafiuddin Portfolio](https://github.com/FarhaShafiuddin/Farha-Shafiuddin)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/farha-shafiuddin-5a360a264/)  
-- ✉️ Email: [shafiuddinfarha@gmail.com](shafiuddinfarha@gmail.com)
+🌐 **Live site:**  
+https://farhashafiuddin.github.io/Farha-Shafiuddin_Portfolio/
 
 ---
 
-## 💻 Key Projects
+## About the Portfolio
 
-### 🔹 UX & Python Prototypes
-- **UX Python Prototypes** – Collection of Python-based prototypes exploring usability, workflow design, and user-centered interfaces.  
-  [View on GitHub](https://github.com/FarhaShafiuddin/ux-python-prototypes)
+The portfolio highlights:
+- UX/UI case studies and design prototypes
+- Python-based applications and tools
+- Accessibility-focused and ethical technology projects
+- Data analysis and visualization work
 
-- **Accessible Form Prototype** – Python form project focusing on **clarity, usability, and inclusive design principles**.  
-  [View on GitHub](https://github.com/FarhaShafiuddin/ux-python-prototypes)
-
-### 📝 Language & Data Tools
-- **Language Translator Tool** – GUI-driven Python tool for accessible language translation.  
-  [View on GitHub](#) <!-- add link if hosted -->
-
-- **News Media Bias Dashboard** – Python dashboard analyzing **sentiment and framing differences** between mainstream and independent media.  
-  [View on GitHub](#) <!-- add link if hosted -->
+Each project includes context, tools used, and links to source code or prototypes.
 
 ---
 
-## 🛠 Skills & Technologies
+## Built With
 
-- **Programming & Data:** Python, HTML/CSS, Angular, Markdown, Data Analysis, GUI Development  
-- **Tools & Libraries:** Tkinter, Pandas, Matplotlib, Scikit-learn, NLP, Figma  
-- **UX & Design Focus:** UX/UI Design, Accessibility, Ethical Technology  
-- **IT & Systems:** 🖥️ IT Hardware & Operating Systems Maintenance
+- HTML / CSS
+- JavaScript / Angular
+- GitHub Pages for hosting
 
 ---
 
-## 📈 GitHub Stats
+## Related Repositories
 
-![Farha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhaShafiuddin&show_icons=true&theme=radical)
-
+- UX & Python Projects: https://github.com/farhashafiuddin/ux_python_projects
