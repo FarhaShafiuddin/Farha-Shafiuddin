@@ -19,7 +19,7 @@ main.projects {
 
 /* ======= Section title ======= */
 .section-title {
-  font-size: 1.15rem;        /* clearly smaller */
+  font-size: 1.50rem;        /* clearly smaller */
   font-weight: 600;         /* intentional, not default bold */
   letter-spacing: 0.02em;   /* adds clarity at small sizes */
   text-transform: uppercase; /* optional but very effective */
