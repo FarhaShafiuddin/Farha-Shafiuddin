@@ -19,12 +19,15 @@ main.projects {
 
 /* ======= Section title ======= */
 .section-title {
-  font-size: 1.25rem;
-  font-weight: 250;
-  letter-spacing: -0.02em;
-  margin-bottom: 2rem;
+  font-size: 1.15rem;        /* clearly smaller */
+  font-weight: 600;         /* intentional, not default bold */
+  letter-spacing: 0.02em;   /* adds clarity at small sizes */
+  text-transform: uppercase; /* optional but very effective */
+  color: #374151;           /* softer than black */
   text-align: center;
+  margin-bottom: 2rem;
 }
+
 
 /* ======= Projects grid ======= */
 .projects-grid {
